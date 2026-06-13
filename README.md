@@ -1,2 +1,2 @@
 # ai-chatbot-streamlit
-A beginner-friendly AI chatbot developed with Python and Streamlit to explore Generative AI concepts and conversational user interfaces
+AI Chatbot built using Python, Streamlit, LangChain, and OpenAI API, enabling users to interact with an AI assistant through a simple web interface.
